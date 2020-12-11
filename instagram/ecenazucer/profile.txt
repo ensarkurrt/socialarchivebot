@@ -1,0 +1,1 @@
+[{"username": "ecenazucer", "datetime": "04/12/2020 05:01:13", "detail": {"fullname": "Ecenaz U\u0308c\u0327er", "postCount": "123", "follower": "556.061", "following": "647", "desc": "Bilgi University\ud83d\udccd", "link": "www.youtube.com/channel/UCQAqJ_L4uiYjIqAqlHNBJFw"}}]

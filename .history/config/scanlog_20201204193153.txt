@@ -1,0 +1,17 @@
+[
+    {
+        "username": "reynmen",
+        "profile": 0,
+        "story": 1,
+        "scans": [
+            {
+                "type": "profile",
+                "datetime": "04/12/2020 19:31:47"
+            },
+            {
+                "type": "story",
+                "datetime": "04/12/2020 19:31:47"
+            }
+        ]
+    }
+]

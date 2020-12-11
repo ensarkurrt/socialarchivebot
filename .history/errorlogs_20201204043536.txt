@@ -1,0 +1,299 @@
+[
+    {
+        "username": "duyguozaslan",
+        "datetime": "04/12/2020 04:05:03",
+        "detail": {
+            "url": "https://www.instagram.com/stories/duyguozaslan/2456129635246131407/",
+            "exception": "Message: Unable to locate element: //*[@id=\"react-root\"]/section/div[1]/div/section/div/div[1]/div/div/img\n",
+            "message": "image did not download"
+        }
+    },
+    {
+        "username": "duyguozaslan",
+        "datetime": "04/12/2020 04:05:06",
+        "detail": {
+            "url": "https://www.instagram.com/stories/duyguozaslan/2456154783177085439/",
+            "exception": "Message: Unable to locate element: //*[@id=\"react-root\"]/section/div[1]/div/section/div/div[1]/div/div/video/source\n",
+            "message": "video did not download"
+        }
+    },
+    {
+        "username": "duyguozaslan",
+        "datetime": "04/12/2020 04:05:09",
+        "detail": {
+            "url": "https://www.instagram.com/stories/duyguozaslan/2456154802135346319/",
+            "exception": "Message: Unable to locate element: //*[@id=\"react-root\"]/section/div[1]/div/section/div/div[1]/div/div/img\n",
+            "message": "image did not download"
+        }
+    },
+    {
+        "username": "duyguozaslan",
+        "datetime": "04/12/2020 04:05:12",
+        "detail": {
+            "url": "https://www.instagram.com/stories/duyguozaslan/2456155629243826810/",
+            "exception": "Invalid URL 'None': No schema supplied. Perhaps you meant http://None?",
+            "message": "image did not download"
+        }
+    },
+    {
+        "username": "duyguozaslan",
+        "datetime": "04/12/2020 04:05:15",
+        "detail": {
+            "url": "https://www.instagram.com/stories/duyguozaslan/2456155979996623430/",
+            "exception": "Message: Unable to locate element: //*[@id=\"react-root\"]/section/div[1]/div/section/div/div[1]/div/div/img\n",
+            "message": "image did not download"
+        }
+    },
+    {
+        "username": "duyguozaslan",
+        "datetime": "04/12/2020 04:05:19",
+        "detail": {
+            "url": "https://www.instagram.com/stories/duyguozaslan/2456156251837952764/",
+            "exception": "Message: Unable to locate element: //*[@id=\"react-root\"]/section/div[1]/div/section/div/div[1]/div/div/img\n",
+            "message": "image did not download"
+        }
+    },
+    {
+        "username": "duyguozaslan",
+        "datetime": "04/12/2020 04:05:22",
+        "detail": {
+            "url": "https://www.instagram.com/stories/duyguozaslan/2456156512572611386/",
+            "exception": "Message: Unable to locate element: //*[@id=\"react-root\"]/section/div[1]/div/section/div/div[1]/div/div/img\n",
+            "message": "image did not download"
+        }
+    },
+    {
+        "username": "reynmen",
+        "datetime": "04/12/2020 04:29:30",
+        "detail": {
+            "url": "https://www.instagram.com/stories/reynmen/",
+            "exception": "'stories'",
+            "message": "image did not download"
+        }
+    },
+    {
+        "username": "reynmen",
+        "datetime": "04/12/2020 04:29:33",
+        "detail": {
+            "url": "https://www.instagram.com/stories/reynmen/2456078536541674471/",
+            "exception": "'stories'",
+            "message": "video did not download"
+        }
+    },
+    {
+        "username": "reynmen",
+        "datetime": "04/12/2020 04:29:35",
+        "detail": {
+            "url": "https://www.instagram.com/stories/reynmen/2456081585758623558/",
+            "exception": "'stories'",
+            "message": "video did not download"
+        }
+    },
+    {
+        "username": "reynmen",
+        "datetime": "04/12/2020 04:29:37",
+        "detail": {
+            "url": "https://www.instagram.com/stories/reynmen/2456081864755369789/",
+            "exception": "'stories'",
+            "message": "video did not download"
+        }
+    },
+    {
+        "username": "reynmen",
+        "datetime": "04/12/2020 04:29:39",
+        "detail": {
+            "url": "https://www.instagram.com/stories/reynmen/2456093336713694691/",
+            "exception": "'stories'",
+            "message": "video did not download"
+        }
+    },
+    {
+        "username": "reynmen",
+        "datetime": "04/12/2020 04:29:41",
+        "detail": {
+            "url": "https://www.instagram.com/stories/reynmen/2456156298115610002/",
+            "exception": "'stories'",
+            "message": "video did not download"
+        }
+    },
+    {
+        "username": "reynmen",
+        "datetime": "04/12/2020 04:29:43",
+        "detail": {
+            "url": "https://www.instagram.com/stories/reynmen/2456156310841268336/",
+            "exception": "'stories'",
+            "message": "video did not download"
+        }
+    },
+    {
+        "username": "reynmen",
+        "datetime": "04/12/2020 04:29:45",
+        "detail": {
+            "url": "https://www.instagram.com/stories/reynmen/2456157571229669724/",
+            "exception": "'stories'",
+            "message": "video did not download"
+        }
+    },
+    {
+        "username": "reynmen",
+        "datetime": "04/12/2020 04:29:48",
+        "detail": {
+            "url": "https://www.instagram.com/stories/reynmen/2456158116614836905/",
+            "exception": "'stories'",
+            "message": "video did not download"
+        }
+    },
+    {
+        "username": "reynmen",
+        "datetime": "04/12/2020 04:29:50",
+        "detail": {
+            "url": "https://www.instagram.com/stories/reynmen/2456159668968740962/",
+            "exception": "'stories'",
+            "message": "video did not download"
+        }
+    },
+    {
+        "username": "reynmen",
+        "datetime": "04/12/2020 04:29:52",
+        "detail": {
+            "url": "https://www.instagram.com/stories/reynmen/2456167053166814050/",
+            "exception": "'stories'",
+            "message": "video did not download"
+        }
+    },
+    {
+        "username": "danlabilic",
+        "datetime": "04/12/2020 04:29:59",
+        "detail": {
+            "url": "https://www.instagram.com/stories/danlabilic/",
+            "exception": "'stories'",
+            "message": "video did not download"
+        }
+    },
+    {
+        "username": "danlabilic",
+        "datetime": "04/12/2020 04:30:01",
+        "detail": {
+            "url": "https://www.instagram.com/stories/danlabilic/2455961239921089027/",
+            "exception": "'stories'",
+            "message": "video did not download"
+        }
+    },
+    {
+        "username": "danlabilic",
+        "datetime": "04/12/2020 04:30:03",
+        "detail": {
+            "url": "https://www.instagram.com/stories/danlabilic/2455964045977354294/",
+            "exception": "'stories'",
+            "message": "video did not download"
+        }
+    },
+    {
+        "username": "danlabilic",
+        "datetime": "04/12/2020 04:30:05",
+        "detail": {
+            "url": "https://www.instagram.com/stories/danlabilic/2455984140695017089/",
+            "exception": "'stories'",
+            "message": "image did not download"
+        }
+    },
+    {
+        "username": "reynmen",
+        "datetime": "04/12/2020 04:31:46",
+        "detail": {
+            "url": "https://www.instagram.com/stories/reynmen/",
+            "exception": "'stories'",
+            "message": "image did not download"
+        }
+    },
+    {
+        "username": "reynmen",
+        "datetime": "04/12/2020 04:31:48",
+        "detail": {
+            "url": "https://www.instagram.com/stories/reynmen/2456078536541674471/",
+            "exception": "'stories'",
+            "message": "video did not download"
+        }
+    },
+    {
+        "username": "reynmen",
+        "datetime": "04/12/2020 04:31:50",
+        "detail": {
+            "url": "https://www.instagram.com/stories/reynmen/2456081585758623558/",
+            "exception": "'stories'",
+            "message": "video did not download"
+        }
+    },
+    {
+        "username": "reynmen",
+        "datetime": "04/12/2020 04:31:52",
+        "detail": {
+            "url": "https://www.instagram.com/stories/reynmen/2456081864755369789/",
+            "exception": "'stories'",
+            "message": "video did not download"
+        }
+    },
+    {
+        "username": "reynmen",
+        "datetime": "04/12/2020 04:31:54",
+        "detail": {
+            "url": "https://www.instagram.com/stories/reynmen/2456093336713694691/",
+            "exception": "'stories'",
+            "message": "video did not download"
+        }
+    },
+    {
+        "username": "reynmen",
+        "datetime": "04/12/2020 04:31:56",
+        "detail": {
+            "url": "https://www.instagram.com/stories/reynmen/2456156298115610002/",
+            "exception": "'stories'",
+            "message": "video did not download"
+        }
+    },
+    {
+        "username": "reynmen",
+        "datetime": "04/12/2020 04:31:59",
+        "detail": {
+            "url": "https://www.instagram.com/stories/reynmen/2456156310841268336/",
+            "exception": "'stories'",
+            "message": "video did not download"
+        }
+    },
+    {
+        "username": "reynmen",
+        "datetime": "04/12/2020 04:32:01",
+        "detail": {
+            "url": "https://www.instagram.com/stories/reynmen/2456157571229669724/",
+            "exception": "'stories'",
+            "message": "video did not download"
+        }
+    },
+    {
+        "username": "reynmen",
+        "datetime": "04/12/2020 04:35:13",
+        "detail": {
+            "url": "https://www.instagram.com/stories/reynmen/",
+            "exception": "'stories'",
+            "message": "image did not download"
+        }
+    },
+    {
+        "username": "reynmen",
+        "datetime": "04/12/2020 04:35:15",
+        "detail": {
+            "url": "https://www.instagram.com/stories/reynmen/2456078536541674471/",
+            "exception": "'stories'",
+            "message": "video did not download"
+        }
+    },
+    {
+        "username": "reynmen",
+        "datetime": "04/12/2020 04:35:17",
+        "detail": {
+            "url": "https://www.instagram.com/stories/reynmen/2456081585758623558/",
+            "exception": "'stories'",
+            "message": "video did not download"
+        }
+    }
+]

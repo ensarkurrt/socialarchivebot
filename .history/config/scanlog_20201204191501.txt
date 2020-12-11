@@ -1,0 +1,41 @@
+[
+    {
+        "username": "reynmen",
+        "scans": [
+            {
+                "type": "profile",
+                "datetime": "04/12/2020 19:11:57"
+            },
+            {
+                "type": "story",
+                "datetime": "04/12/2020 19:11:57"
+            },
+            {
+                "type": "profile",
+                "datetime": "04/12/2020 19:12:35"
+            },
+            {
+                "type": "story",
+                "datetime": "04/12/2020 19:12:35"
+            },
+            {
+                "type": "profile",
+                "datetime": "04/12/2020 19:12:42"
+            },
+            {
+                "type": "story",
+                "datetime": "04/12/2020 19:12:42"
+            },
+            {
+                "type": "profile",
+                "datetime": "04/12/2020 19:14:58"
+            },
+            {
+                "type": "story",
+                "datetime": "04/12/2020 19:14:58"
+            }
+        ],
+        "story": 4,
+        "profile": 3
+    }
+]

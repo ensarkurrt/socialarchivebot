@@ -1,0 +1,34 @@
+[
+    {
+        "username": "reynmen",
+        "datetime": "04/12/2020 19:15:11",
+        "detail": {
+            "exception": "'story'",
+            "message": "story sayısında hata oluştu"
+        }
+    },
+    {
+        "username": "reynmen",
+        "datetime": "04/12/2020 19:17:23",
+        "detail": {
+            "exception": "'profile'",
+            "message": "profile sayısında hata oluştu"
+        }
+    },
+    {
+        "username": "reynmen",
+        "datetime": "04/12/2020 19:18:46",
+        "detail": {
+            "exception": "'story'",
+            "message": "story sayısında hata oluştu"
+        }
+    },
+    {
+        "username": "reynmen",
+        "datetime": "04/12/2020 19:19:54",
+        "detail": {
+            "exception": "'profile'",
+            "message": "profile sayısında hata oluştu"
+        }
+    }
+]

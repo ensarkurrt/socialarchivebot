@@ -1,0 +1,65 @@
+[
+    {
+        "username": "senamiaonline",
+        "datetime": "04/12/2020 19:58:17",
+        "detail": {
+            "url": "https://www.instagram.com/senamiaonline/",
+            "exception": "Message: Unable to locate element: //*[@id=\"react-root\"]/section/main/div/header/section/div[2]/h1\n",
+            "message": "profile fullname did not download"
+        }
+    },
+    {
+        "username": "senamiaonline",
+        "datetime": "04/12/2020 19:58:17",
+        "detail": {
+            "url": "https://www.instagram.com/senamiaonline/",
+            "exception": "Message: Unable to locate element: //*[@id=\"react-root\"]/section/main/div/header/section/div[2]/a\n",
+            "message": "profile link did not download"
+        }
+    },
+    {
+        "username": "senamiaonline",
+        "datetime": "04/12/2020 20:00:33",
+        "detail": {
+            "url": "https://www.instagram.com/senamiaonline/",
+            "exception": "Message: Unable to locate element: //*[@id=\"react-root\"]/section/main/div/header/section/div[2]/h1\n",
+            "message": "profile fullname did not download"
+        }
+    },
+    {
+        "username": "senamiaonline",
+        "datetime": "04/12/2020 20:00:33",
+        "detail": {
+            "url": "https://www.instagram.com/senamiaonline/",
+            "exception": "Message: Unable to locate element: //*[@id=\"react-root\"]/section/main/div/header/section/div[2]/a\n",
+            "message": "profile link did not download"
+        }
+    },
+    {
+        "username": "senamiaonline",
+        "datetime": "04/12/2020 20:00:51",
+        "detail": {
+            "url": "https://www.instagram.com/stories/senamiaonline/2456830305213110792/",
+            "exception": "Message: Unable to locate element: //*[@id=\"react-root\"]/section/div[1]/div/section/div/div[1]/div/div/video/source\n",
+            "message": "video did not download"
+        }
+    },
+    {
+        "username": "senamiaonline",
+        "datetime": "04/12/2020 20:01:36",
+        "detail": {
+            "url": "https://www.instagram.com/senamiaonline/",
+            "exception": "Message: Unable to locate element: //*[@id=\"react-root\"]/section/main/div/header/section/div[2]/h1\n",
+            "message": "profile fullname did not download"
+        }
+    },
+    {
+        "username": "senamiaonline",
+        "datetime": "04/12/2020 20:01:37",
+        "detail": {
+            "url": "https://www.instagram.com/senamiaonline/",
+            "exception": "Message: Unable to locate element: //*[@id=\"react-root\"]/section/main/div/header/section/div[2]/a\n",
+            "message": "profile link did not download"
+        }
+    }
+]

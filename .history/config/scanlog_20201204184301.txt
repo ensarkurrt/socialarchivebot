@@ -1,0 +1,9 @@
+[
+    {
+        "username": "reynmen",
+        "scans": [{
+            "type": "story",
+            "datetime": "04/12/2020 18:38:11"
+        },]
+    }
+]

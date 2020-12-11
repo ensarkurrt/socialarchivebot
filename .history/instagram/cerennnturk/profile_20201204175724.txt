@@ -1,0 +1,14 @@
+[
+    {
+        "username": "cerennnturk",
+        "datetime": "04/12/2020 04:59:31",
+        "detail": {
+            "fullname": "Ceren Türk",
+            "postCount": "44",
+            "follower": "9.100",
+            "following": "990",
+            "desc": "📍Marmara Üniversitesi-Beslenme ve Diyetetik 2/4<br>🥑 founder of  <a class=\"notranslate\" href=\"/ogr.dyt.cerenturk/\" tabindex=\"0\">@ogr.dyt.cerenturk</a> <br>📝 founder of <a class=\"notranslate\" href=\"/smashmedya/\" tabindex=\"0\">@smashmedya</a><br>twitter 👇🏻",
+            "link": "mobile.twitter.com/bosvercen"
+        }
+    }
+]

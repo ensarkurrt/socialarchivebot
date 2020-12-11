@@ -1,0 +1,14 @@
+[
+    {
+        "username": "cerennnturk",
+        "datetime": "04/12/2020 04:59:31",
+        "detail": {
+            "fullname": "Ceren Türk",
+            "postCount": "44",
+            "follower": "9.100",
+            "following": "990",
+
+            "link": "mobile.twitter.com/bosvercen"
+        }
+    }
+]
