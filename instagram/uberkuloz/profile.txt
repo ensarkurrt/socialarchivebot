@@ -1,0 +1,1 @@
+[{"username": "uberkuloz", "datetime": "23/01/2021 21:24:06", "detail": {"fullname": "Berk Keklik", "postCount": "101", "follower": "2.163.853", "following": "537", "desc": "Reklam ve i\u015fbirlikleri i\u00e7in \ud83d\udc47<br>uberkuloz@temagency.com", "link": "aykutelmas, danlabilic, reynmen + 1 di\u011fer ki\u015fi takip ediyor"}}]

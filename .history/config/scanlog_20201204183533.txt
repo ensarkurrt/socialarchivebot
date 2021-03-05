@@ -1,9 +1,0 @@
-[
-    {
-        "username": "reynmen",
-        "scans":{}
-    },
-    {
-        "username": "ensarkurt"
-    }
-]

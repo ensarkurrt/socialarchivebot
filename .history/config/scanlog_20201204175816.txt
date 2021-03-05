@@ -1,8 +1,0 @@
-[
-    {
-        "ensarkurt": {
-            "type": "story",
-            "datetime": "datetimeburası1"
-        }
-    }
-]

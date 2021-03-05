@@ -1,9 +1,0 @@
-[
-    {
-        'ensarkurt':{
-            {
-                'type':'story'
-            }
-        }
-    }
-]
