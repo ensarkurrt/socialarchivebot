@@ -272,10 +272,10 @@ def recordProfile(driver,username):
         entry = x
         feeds.append(entry)
         json.dump(feeds, feedsjson)
-    recordScan('reynmen','profile')
+    recordScan(username,'profile')
     pr(username+' Kullanıcısının profil kaydı tamamlandı','*')
 
-def startProccess(driver,username):
+def recordStories(driver,username):
     pr(username+' Kullanıcısının hikayeleri çekiliyor','*')
     goToStories(driver,username)
     sleep(3)
@@ -295,17 +295,17 @@ def startProccess(driver,username):
             pr(username+' Kullanıcısının hikayesi bulunamadı','!')
     else:
         pr(username+' Kullanıcısının hikayesi bulunamadı','!')
-    recordScan('reynmen','story')
+    recordScan(username,'story')
 
 def main():
     setUsernames()
     driver = setup()
-    login(driver,'sosyalmedyaarsivi','159753Ensar')
+    login(driver,'sosyalmedyaarsivi','####')
     sleep(3)
     for username in getUsernames():
         recordProfile(driver,username)
         sleep(2)
-        startProccess(driver,username)    
+        recordStories(driver,username)    
     
 if __name__ == "__main__":
     main()
